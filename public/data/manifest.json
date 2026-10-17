@@ -1,0 +1,12 @@
+{
+  "name": "Сенс",
+  "locale": "uk",
+  "epoch": "2025-09-01",
+  "puzzleCount": 974,
+  "vocabSize": 16022,
+  "greenMax": 300,
+  "yellowMax": 1500,
+  "version": 1,
+  "embedding": "fastText cc.uk.300 reduced to vocabulary lemmas",
+  "forms": 143736
+}
